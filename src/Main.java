@@ -1,3 +1,10 @@
+/*
+  Name: Nguyen Quoc Minh Quan
+  Subject: CP2406 - Programming III
+  Start date: 4/12/2020
+  Github link: https://github.com/minhquan0902/JCU_CP2406_Traffic_Simulator_1.0/tree/master (on branch Master)
+
+ */
 import java.util.ArrayList;
 import java.util.Scanner;
 
